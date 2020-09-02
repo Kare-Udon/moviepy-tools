@@ -4,7 +4,7 @@
 
 ## 环境配置
 
-Python 3+
+Python 3 +
 
 ```
 pip3 install moviepy eyed3
@@ -13,5 +13,14 @@ pip3 install moviepy eyed3
 
 1. 剪切视频
 2. 剪切音频
+3. 生成gif
    
-  ......
+......
+
+## 使用方法
+
+```
+python3 main.py
+```
+
+或将 movie_tools.py 导入到你的项目。
